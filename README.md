@@ -1,0 +1,11 @@
+# BrebesPrank
+# Prank Call
+
+# TOOLS INI DI RECODE OLEH MR.PEMULUNG
+
+* SEBELUM MENGGUNAKAN TOOLS INI SILAKAN INSTALL BAHAN NDISIT BRO:
+
+  $ pkg install php
+  
+
+  
